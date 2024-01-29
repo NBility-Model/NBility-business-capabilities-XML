@@ -2,7 +2,7 @@
 This repo contains NBility-business-capabilities model version 2.1. in XML format. 
 
 # License
-This project is licensed - see [LICENSE](LICENSE) for details.
+This project is licensed Creative Commons Attribution 4.0 International Public License (CC-BY-4.0) - see [LICENSE](LICENSE) for details.
 
 # Contributing
 Please read [CONTRIBUTING.md](https://github.com/nbility-example/.github/blob/main/CONTRIBUTING.md) for details on the process for submitting pull requests to us.
